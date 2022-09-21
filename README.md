@@ -1,6 +1,7 @@
 # React Awesome Slider v3 [NEW fullpage navigation HOC]
 
 [![Travis](https://img.shields.io/travis/rcaferati/react-awesome-slider/master.svg)](https://travis-ci.org/rcaferati/react-awesome-slider) ![NPM](https://img.shields.io/npm/v/react-awesome-slider.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fshubhdeeprajput%2Freact-awesome-slider.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fshubhdeeprajput%2Freact-awesome-slider?ref=badge_shield)
 
 `react-awesome-slider` is a 60fps, extendable, highly customizable, production ready React Component that renders a media (image/video) gallery slider/carousel.
 
@@ -252,3 +253,6 @@ If you have an idea for a missing feature or animation just craft your own `hoc 
 ## License
 
 MIT. Copyright (c) 2018 Rafael Caferati.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fshubhdeeprajput%2Freact-awesome-slider.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fshubhdeeprajput%2Freact-awesome-slider?ref=badge_large)
